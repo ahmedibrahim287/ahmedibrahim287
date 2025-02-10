@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ahmed ibrahim</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Ibrahim Mohamed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 
-- 📫 How to reach me **ahmedibrahim287@gmail.com**
+- 📫 How to reach me **ahmedibrahim287@outlook.sa**
 
 
 <h3 align="left">Connect with me:</h3>
